@@ -575,7 +575,7 @@
     {
      "id": "",
      "heading": "قنوات التواصل",
-     "html": "<div class=\"steps\">\n          <div class=\"stp\"><h4>الهاتف</h4><p>0148476056 خلال أوقات العمل الرسمية.</p></div>\n          <div class=\"stp\"><h4>البريد الإلكتروني</h4><p>res-cons.inst@iu.edu.sa</p></div>\n          <div class=\"stp\"><h4>نموذج طلب الخدمة</h4><p>يعبأ إلكترونيا وتتولى إدارة تطوير الأعمال والشراكات والتسويق متابعته.</p></div>\n        </div>\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:22px\">\n          <a href=\"@@BASE@@expert-houses#request\" class=\"btn btn-primary\">تقديم طلب خدمة</a>\n          <a href=\"tel:0148476056\" class=\"btn btn-outline\">اتصال هاتفي</a>\n        </div>"
+     "html": "<div class=\"steps\">\n          <div class=\"stp\"><h4>الهاتف</h4><p>0148476056 من الأحد إلى الخميس خلال أوقات العمل الرسمية.</p></div>\n          <div class=\"stp\"><h4>البريد الإلكتروني</h4><p>res-cons.inst@iu.edu.sa</p></div>\n          <div class=\"stp\"><h4>نموذج طلب الخدمة</h4><p>يعبأ إلكترونيا وتتولى إدارة تطوير الأعمال والشراكات والتسويق متابعته.</p></div>\n        </div>\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:22px\">\n          <a href=\"@@BASE@@expert-houses#request\" class=\"btn btn-primary\">تقديم طلب خدمة</a>\n          <a href=\"tel:0148476056\" class=\"btn btn-outline\">اتصال هاتفي</a>\n        </div>"
     },
     {
      "id": "",
