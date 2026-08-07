@@ -297,7 +297,9 @@
    "crumb": "التحول الرقمي والمحتوى",
    "nav": "digital",
    "css": [],
-   "js": [],
+   "js": [
+    "share.js"
+   ],
    "data": {},
    "sections": [
     {
@@ -402,7 +404,7 @@
    "lead": "السند النظامي للتعاقد المباشر مع المعهد بموجب نظام المنافسات والمشتريات الحكومية، وإجراءات التعاقد من تقديم الطلب حتى التنفيذ.",
    "description": "آلية التعاقد مع معهد البحوث والدراسات الاستشارية بالجامعة الإسلامية بالمدينة المنورة والسند النظامي للتعاقد المباشر.",
    "crumb": "كيف نتعاقد معكم",
-   "nav": "direct",
+   "nav": "contract",
    "css": [],
    "js": [
     "share.js"
@@ -436,7 +438,7 @@
    "lead": "جهات حكومية ومراكز وبرامج وطنية وأمانات مناطق نفذ لها المعهد أعمالا، وشبكة شراكات استراتيجية محلية وعالمية.",
    "description": "الجهات المستفيدة من خدمات معهد البحوث والدراسات الاستشارية وشركاؤه الاستراتيجيون.",
    "crumb": "من نخدم",
-   "nav": "served",
+   "nav": "clients",
    "css": [],
    "js": [
     "share.js"
@@ -470,7 +472,7 @@
    "lead": "عمادة مستقلة في الجامعة الإسلامية بالمدينة المنورة، تقدم الخدمات البحثية والاستشارية والتدريبية للجهات بمقابل مالي.",
    "description": "نشأة معهد البحوث والدراسات الاستشارية ووضعه النظامي ورؤيته ورسالته وأهدافه الاستراتيجية وبنيته التشغيلية.",
    "crumb": "عن المعهد",
-   "nav": "intro",
+   "nav": "about",
    "css": [],
    "js": [
     "share.js"
@@ -509,6 +511,7 @@
     "org.css"
    ],
    "js": [
+    "share.js",
     "org.js"
    ],
    "data": {
@@ -1901,7 +1904,7 @@
    "lead": "أخبار المعهد وفعالياته والتغطيات الإعلامية المتعلقة به.",
    "description": "أخبار معهد البحوث والدراسات الاستشارية بالجامعة الإسلامية بالمدينة المنورة.",
    "crumb": "أخبار المعهد",
-   "nav": "news",
+   "nav": "media",
    "css": [],
    "js": [
     "share.js"
@@ -2555,7 +2558,7 @@
   {
    "slug": "news/cultures-festival",
    "file": "news-cultures-festival.html",
-   "title": "أخبار المعهد",
+   "title": "مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب",
    "lead": "جناح يعرف بخدمات المعهد وبيوت الخبرة، ويبرز دوره في ربط إمكانات الجامعة العلمية باحتياجات الجهات.",
    "description": "جناح يعرف بخدمات المعهد وبيوت الخبرة، ويبرز دوره في ربط إمكانات الجامعة العلمية باحتياجات الجهات.",
    "crumb": "مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب",
@@ -2570,14 +2573,14 @@
      "id": "",
      "cls": "",
      "heading": "",
-     "html": "<section class=\"card\">\n        <article class=\"news-article\">\n          <div class=\"meta\"><span class=\"nds-tag\">15 / 05 / 2026</span></div>\n          <h2>مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب</h2>\n          <div class=\"hero\"><img src=\"@@BASE@@assets/news/7y0a7733.jpg\" alt=\"مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></div>\n                    <p>يشارك معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب، عبر جناح يبرز دوره بوصفه الذراع التسويقي للجامعة، في ربط إمكاناتها العلمية والبحثية باحتياجات الجهات الحكومية وغير الربحية من خلال البحوث التطبيقية والدراسات المتخصصة.</p>\n\n                    <div class=\"news-gallery\">\n            <a href=\"@@BASE@@assets/news/imgl7400.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7400.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7465.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7465.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7505.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7505.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7510.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7510.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7524.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7524.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7560.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7560.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          </div>\n\n        </article>\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:24px\">\n          <a href=\"@@BASE@@news\" class=\"btn btn-outline\">عودة إلى الأخبار</a>\n          <a href=\"@@BASE@@gallery/cultures-festival\" class=\"btn btn-outline\">ألبوم صور الفعالية</a>\n        </div>\n      </section>"
+     "html": "<section class=\"card\">\n        <article class=\"news-article\">\n          <div class=\"meta\"><span class=\"nds-tag\">15 / 05 / 2026</span></div>\n          <div class=\"hero\"><img src=\"@@BASE@@assets/news/7y0a7733.jpg\" alt=\"مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></div>\n                    <p>يشارك معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب، عبر جناح يبرز دوره بوصفه الذراع التسويقي للجامعة، في ربط إمكاناتها العلمية والبحثية باحتياجات الجهات الحكومية وغير الربحية من خلال البحوث التطبيقية والدراسات المتخصصة.</p>\n\n                    <div class=\"news-gallery\">\n            <a href=\"@@BASE@@assets/news/imgl7400.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7400.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7465.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7465.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7505.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7505.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7510.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7510.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7524.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7524.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n            <a href=\"@@BASE@@assets/news/imgl7560.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7560.jpg\" alt=\"من مشاركة معهد البحوث والدراسات الاستشارية في مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          </div>\n\n        </article>\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:24px\">\n          <a href=\"@@BASE@@news\" class=\"btn btn-outline\">عودة إلى الأخبار</a>\n          <a href=\"@@BASE@@gallery/cultures-festival\" class=\"btn btn-outline\">ألبوم صور الفعالية</a>\n        </div>\n      </section>"
     }
    ]
   },
   {
    "slug": "gallery/cultures-festival",
    "file": "album-cultures-festival.html",
-   "title": "مكتبة الصور",
+   "title": "مهرجان الثقافات والشعوب",
    "lead": "مهرجان الثقافات والشعوب. جناح المعهد في المهرجان، والتعريف بخدماته وبيوت الخبرة.",
    "description": "مهرجان الثقافات والشعوب. جناح المعهد في المهرجان، والتعريف بخدماته وبيوت الخبرة.",
    "crumb": "مهرجان الثقافات والشعوب",
@@ -2591,8 +2594,8 @@
     {
      "id": "",
      "cls": "",
-     "heading": "مهرجان الثقافات والشعوب",
-     "html": "<div class=\"meta\"><span class=\"nds-tag\">15 / 05 / 2026</span> <span class=\"nds-tag\">7 صور</span></div>\n        <div class=\"news-gallery\">\n          <a href=\"@@BASE@@assets/news/7y0a7733.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/7y0a7733.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7400.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7400.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7465.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7465.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7505.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7505.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7510.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7510.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7524.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7524.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7560.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7560.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n        </div>\n\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:24px\">\n          <a href=\"@@BASE@@gallery\" class=\"btn btn-outline\">عودة إلى الألبومات</a>\n          <a href=\"@@BASE@@news/cultures-festival\" class=\"btn btn-outline\">الخبر المرتبط بالألبوم</a>\n        </div>"
+     "heading": "",
+     "html": "<section class=\"card\">\n        <div class=\"meta\"><span class=\"nds-tag\">15 / 05 / 2026</span> <span class=\"nds-tag\">7 صور</span></div>\n        <div class=\"news-gallery\">\n          <a href=\"@@BASE@@assets/news/7y0a7733.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/7y0a7733.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7400.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7400.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7465.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7465.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7505.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7505.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7510.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7510.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7524.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7524.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n          <a href=\"@@BASE@@assets/news/imgl7560.jpg\" target=\"_blank\" rel=\"noopener\"><img src=\"@@BASE@@assets/news/imgl7560.jpg\" alt=\"من مهرجان الثقافات والشعوب\" loading=\"lazy\"></a>\n        </div>\n\n        <div style=\"display:flex;gap:10px;flex-wrap:wrap;margin-top:24px\">\n          <a href=\"@@BASE@@gallery\" class=\"btn btn-outline\">عودة إلى الألبومات</a>\n          <a href=\"@@BASE@@news/cultures-festival\" class=\"btn btn-outline\">الخبر المرتبط بالألبوم</a>\n        </div>\n      </section>"
     }
    ]
   }
